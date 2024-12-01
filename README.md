@@ -1,8 +1,12 @@
-# React + Vite
+# Swoley Fit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Live Demo](https://swoly-fit.netlify.app)
 
-Currently, two official plugins are available:
+Swoley Fit is a fitness-focused web application that provides users with tools and resources to track and improve their fitness journey.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/likhithraj005/swoley-fit.git
+   cd swoley-fit
